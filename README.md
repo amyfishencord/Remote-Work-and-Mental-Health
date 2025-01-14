@@ -1,2 +1,2 @@
 # Remote Work and Mental Health
- Data exploration in R on remote work and mental health
+ Data exploration in RStudio on Remote Workn and Mental Health dataset.
